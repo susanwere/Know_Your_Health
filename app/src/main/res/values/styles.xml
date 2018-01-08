@@ -1,0 +1,25 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="windowNoTitle">false</item>
+        <item name="colorPrimary">#000658</item>
+        <item name="colorPrimaryDark">#000678</item>
+        <item name="colorAccent">#000698</item>
+    </style>
+
+    <style name="AppBaseTheme" parent="android:Theme.Holo.Dialog">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">#000658</item>
+        <item name="colorPrimaryDark">#000678</item>
+        <item name="colorAccent">#000698</item>
+    </style>
+
+    <style name="SplashTheme" parent="Theme.AppCompat.NoActionBar">
+        <item name="android:windowBackground">@color/ic_launcher_background</item>
+        <item name="windowNoTitle">false</item>
+        <item name="android:tileMode">disabled</item>
+    </style>
+
+</resources>

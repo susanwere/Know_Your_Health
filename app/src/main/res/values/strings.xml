@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name" color="#000638">KNOW YOUR HEALTH</string>
+    <string name="WelcomeNote">Get to know how healthy you are!!</string>
+    <string name="loginNote">Welcome Back!!! \n Click the button below to know your health status</string>
+</resources>
