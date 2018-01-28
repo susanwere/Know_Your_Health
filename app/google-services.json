@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "469677435609",
+    "firebase_url": "https://knowyourhealth-12c5b.firebaseio.com",
+    "project_id": "knowyourhealth-12c5b",
+    "storage_bucket": "knowyourhealth-12c5b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:469677435609:android:9d24d0cf648b5cb1",
+        "android_client_info": {
+          "package_name": "com.example.android.knowyourhealth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "469677435609-j1hkik4t19h8i020ec7sbk7td73kc9h5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.android.knowyourhealth",
+            "certificate_hash": "1dbd81483617313d8b31415a78187e936b150443"
+          }
+        },
+        {
+          "client_id": "469677435609-hr8tae8ikhb419i85lrji508fnfllp32.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSeeFapM0dJOIWRSvBxDDOGLBzyzyPWNc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "469677435609-hr8tae8ikhb419i85lrji508fnfllp32.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
