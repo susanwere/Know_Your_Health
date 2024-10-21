@@ -1,0 +1,16 @@
+name: "Inject Data"
+description: "Request to inject demo or test data"
+title: "[Inject Data] Request for Demo or Test Data Injection"
+labels: "inject data"
+assignees: 'D050602, I070098'
+body: 
+  - type: textarea
+    id: description
+    attributes:
+      label: Description
+      description: A (detailed) description
+      placeholder: | 
+        What outcome should this issue have?
+        What value does it bring?
+    validations:
+      required: true
